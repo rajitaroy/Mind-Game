@@ -1,1 +1,6 @@
-A game where the user chooses heads/tails and the bot tries guessing the user's move.  
+To run on Windows, open cmd and type:  
+`pip install -r requirements.txt`  
+
+`set FLASK_APP=server.py`  
+
+`flask run`
